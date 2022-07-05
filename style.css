@@ -85,8 +85,7 @@ body {
 
 .service-details {
     padding: 2%;
-    margin: 5%;
-    margin-top: 0%;
+    margin: 0%;
     text-align: justify;
     border-radius: 10px;
 }
@@ -112,4 +111,36 @@ body {
     margin-left: 0.5%;
     margin-right: 20%;
     background-color: rgb(255, 235, 202);
+}
+
+.donate-afgan {
+    display: flex;
+}
+
+.donate-afgan-div {
+    width: 50%;
+    text-align: justify;
+    font-size: large;
+    margin: 5%;
+}
+
+.donate-afgan-div img {
+    height: 400px;
+    width: 550px;
+}
+
+.donate-india {
+    display: flex;
+}
+
+.donate-india-div {
+    width: 50%;
+    text-align: justify;
+    font-size: large;
+    margin: 5%;
+}
+
+.donate-india-div img {
+    height: 400px;
+    width: 550px;
 }
