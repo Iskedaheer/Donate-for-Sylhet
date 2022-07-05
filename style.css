@@ -78,3 +78,38 @@ body {
     border-bottom: 2px solid rgb(136, 136, 136);
     margin-bottom: 30px;
 }
+
+.services {
+    display: flex;
+}
+
+.service-details {
+    padding: 2%;
+    margin: 5%;
+    margin-top: 0%;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.service-details img {
+    height: 70px;
+    width: 90px;
+}
+
+#Earthquake {
+    margin-left: 20%;
+    margin-right: 0.5%;
+    background-color: rgb(255, 230, 198);
+}
+
+#Tropical-Cyclone {
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    background-color: rgb(203, 210, 255);
+}
+
+#Wildfire {
+    margin-left: 0.5%;
+    margin-right: 20%;
+    background-color: rgb(255, 235, 202);
+}
