@@ -74,7 +74,11 @@ body {
 }
 
 .other-amount-taka {
+    width: 80%;
     color: rgb(136, 136, 136);
+    text-align: center;
+    font-size: large;
+    border: none;
     border-bottom: 2px solid rgb(136, 136, 136);
     margin-bottom: 30px;
 }
@@ -84,6 +88,7 @@ body {
 }
 
 .service-details {
+    width: 40%;
     padding: 2%;
     margin: 0%;
     text-align: justify;
