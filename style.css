@@ -144,3 +144,31 @@ body {
     height: 400px;
     width: 550px;
 }
+
+.subscribe {
+    margin: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(255, 241, 223);
+    padding: 5%;
+}
+
+#button-email {
+    background-color: rgb(216, 216, 216);
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#button-subscribe {
+    height: 40px;
+    width: 75px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    background-image: linear-gradient(to right, red, rgb(251, 109, 109));
+}
